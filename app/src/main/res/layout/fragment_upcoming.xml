@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:tag="upcoming_fragment"
+    android:background="#B0C4DE"
+    tools:context=".View.UpcomingFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.recyclerview.widget.RecyclerView android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/recyclerView_coming">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>

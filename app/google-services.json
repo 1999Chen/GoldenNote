@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976393466900",
+    "project_id": "goldennote-2bb9a",
+    "storage_bucket": "goldennote-2bb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976393466900:android:4633eaad5bb36e7f5d2301",
+        "android_client_info": {
+          "package_name": "com.example.goldennote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976393466900-uip9kvodp2td6d6v6dl52kdipd2f0g2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goldennote",
+            "certificate_hash": "9ccceb80b8e3c2ff4e8a22788f344b1db46c9533"
+          }
+        },
+        {
+          "client_id": "976393466900-q17l8a1tf6q98i8pi7su5l3qdunhpngb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4s7wbWBBImIeOdcwuU25ZnrhQRpjSv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976393466900-q17l8a1tf6q98i8pi7su5l3qdunhpngb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

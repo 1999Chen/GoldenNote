@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#B0C4DE">
+
+    <item  android:title="Todo" android:id="@+id/todoFragment" android:icon="@drawable/ic_baseline_check_circle_24"/>
+    <item android:title="AddNew" android:id="@+id/addNewFragment" android:icon="@drawable/ic_baseline_add_box_24"/>
+    <item android:title="Upcoming" android:id="@+id/upcomingFragment" android:icon="@drawable/ic_baseline_calendar_today_24"/>
+    <item android:title="Profile" android:id="@+id/profileFragment" android:icon="@drawable/ic_baseline_person_24"/>
+</menu>
