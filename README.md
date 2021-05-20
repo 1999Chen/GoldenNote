@@ -10,5 +10,8 @@ Requirements:
 5. As a user, I want to be able to add date to a event to reminder me better.
 6. As a user, I want to be able to check all upcoming events(for example, tomorrow) to have enough time to prepare.
 7. As a user, I want to be able to sign out from the system.
-8. 
+8
 All requirements above has been implemented. 
+
+Youtube link:
+https://youtu.be/QZdlxkfFEN0
